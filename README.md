@@ -2,8 +2,6 @@
 
 I'm a software developer from Cleveland, OH. I attended Kent State University (⚡go flashes!⚡)
 
-I specialize in front-end web development, but I have experience with all parts of the stack.
-
 <hr>
 
 ## 🔨 Favorite tools

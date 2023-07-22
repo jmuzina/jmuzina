@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-I'm a software developer from Cleveland, OH. I attended Kent State University (⚡go flashes!⚡)
+I'm a software developer from Cleveland, OH. I earned a BS in Computer Science from Kent State University (⚡go flashes!⚡), and am currently pursuing my Master's from Cleveland State University.
 
 <hr>
 

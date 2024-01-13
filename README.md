@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-I'm a software developer from Cleveland, OH. I earned a BS in Computer Science from Kent State University (⚡go flashes!⚡), and am currently pursuing my Master's from Cleveland State University.
+I'm a software developer from Cleveland, OH. I earned a BS in Computer Science from Kent State University (⚡go flashes!⚡), and am currently working primarily in full-stack web development. I am also exploring cybersecurity (CTFs) and game development (Unity/Unreal) in my spare time!
 
 <hr>
 

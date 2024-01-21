@@ -15,7 +15,7 @@ I'm a software developer from Cleveland, OH. I earned a BS in Computer Science f
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jmuzina.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julie-muzina-7b0603164)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmuzina)
 <hr>
 
 ## 📈 Profile stats

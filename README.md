@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-I'm a software developer based in Buffalo, NY. I earned a BS in Computer Science from Kent State University (⚡go flashes!⚡), and am currently working primarily in full-stack web development. I am also exploring cybersecurity (CTFs) and game development (Unity/Unreal) in my spare time!
+I'm a software developer based in Buffalo, NY. I earned a BS in Computer Science from Kent State University, and I'm currently working on [Canonical's web team](https://webteam.canonical.com/). I'm also exploring game development with Unreal in my spare time!
 
 <hr>
 

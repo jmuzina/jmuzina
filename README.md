@@ -26,5 +26,5 @@ I'm a software developer based in Buffalo, NY. I earned a BS in Computer Science
 <div style="display:flex;flex-flow:row wrap;justify-content:center;align-items:center">
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmuzina&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmuzina&theme=github_dark"/></a>
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmuzina&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmuzina&theme=github_dark"/></a>
-    <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jmuzina&theme=github_dark&utcOffset=-5"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jmuzina&theme=github_dark"/></a>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jmuzina&theme=github_dark&utcOffset=-5"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jmuzina&theme=github_dark&utcOffset=-5"/></a>
 </div>

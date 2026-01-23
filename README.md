@@ -1,18 +1,11 @@
 # Welcome to my profile! 👋
 
-I'm a software engineer from Cleveland, Ohio. I earned a BS in Computer Science from Kent State University, and I'm currently working on [Canonical's web team](https://webteam.canonical.com/). I'm also exploring game development with Godot in my spare time!
+I'm a software engineer from Cleveland, Ohio and a proud graduate from Kent State University's Computer Science program. 
+My work spans a number of disciplines, including game development, distributed networking, data engineering, and most recently full-stack web development. 
 
-<hr>
+I'm currently working on [Canonical's web team](https://webteam.canonical.com/), as a member of the Workplace Engineering team.
+My current area of highest interest/focus is web accessibility. I have been learning a great deal about building accessibile user experiences recently. Keep your eyes out for a blog post on this in the coming months! 👀 
 
-## 🔨 Favorite tools
-
-![Angular](https://img.shields.io/badge/Angular-FA2525?logo=angular&logoColor=9EE9F8&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61dbfb?logo=react&logoColor=000000&style=for-the-badge)
-![Hasura](https://img.shields.io/badge/Hasura-1B2738?logo=hasura&logoColor=1EB4D4&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5d6fe9?logo=postgresql&logoColor=ffffff&style=for-the-badge)
-![TSNODE](https://img.shields.io/badge/TSNode-231933?logo=ts-node&logoColor=3178C6&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Springboot-6db33f?logo=spring&logoColor=000000&style=for-the-badge)
-![Mongo DB](https://img.shields.io/badge/Mongo%20DB-001e2b?logo=mongodb&logoColor=00ed64&style=for-the-badge)
 <hr>
 
 ## 🔗 Links
